@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<symbol id="arrow" viewBox="0 0 19 20" fill="none">
+	 	<title>arrow</title>
+		<g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="24-px-Icons" transform="translate(-219.000000, -122.000000)" stroke="var(--fill)">
+            <g id="ic_send" transform="translate(216.000000, 120.000000)">
+                <g id="send">
+                    <g transform="translate(4.000000, 3.000000)" stroke-width="2">
+                        <polygon id="Path-32" points="0 0 17 9 0 18 5 9"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+	</symbol>
+
+</svg>

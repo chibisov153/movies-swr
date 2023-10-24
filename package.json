@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "NODE_ENV=development ./node_modules/.bin/netlify-lambda serve src",
-    "build": "NODE_ENV=production ./node_modules/.bin/netlify-lambda build src"
+    "start": "NODE_ENV=development ./node_modules/netlify-lambda serve netlify/functions",
+    "build": "NODE_ENV=production ./node_modules/netlify-lambda build netlify/functions"
   },
   "keywords": [],
   "author": "",
